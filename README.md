@@ -1,3 +1,43 @@
+<div align="center">
+
+# Comprehensive Assessment System
+
+**A multi-part assessment application built around the MERN stack.**
+
+<sub>Full-stack · Education &nbsp; · &nbsp; Code and reproducibility notes &nbsp; · &nbsp; Project archive</sub>
+
+</div>
+
+---
+
+## Project snapshot
+
+A multi-part assessment application built around the MERN stack. This repository contains source and supporting assets for a hands-on study of the underlying tools.
+
+## Key areas
+
+- Inspect the included source code and sample data.
+- Reproduce the project workflow locally.
+- Extend or test the behavior from an isolated development environment.
+
+## Getting started
+
+Refer to the original setup notes below for the exact runtime and environment.
+
+## Where to look
+
+| Path | Contents |
+|:--|:--|
+| [`README.md`](./README.md) | Project description and setup |
+| [`backend`](./backend) | Application source / module |
+| [`frontend`](./frontend) | Application source / module |
+
+## Provenance & boundaries
+
+A tutorial-scale application: protect account secrets, review authentication paths and never commit production credentials. References or tutorial links in the original documentation are retained as citations to their sources; they do not imply that third-party work was developed independently.
+
+<details><summary><strong>Original README and setup details</strong></summary>
+
 # Comprehensive Assessment System
 
 <h3>NOTE: I have added a lot of things since I made this project. I have added the same in a different branch <a target='blank' href='https://github.com/Sayantan19/Quiz-MERN/tree/development-branch'>development-branch</a></h3>
@@ -66,3 +106,9 @@ To develop a complete software solution which can be used by any teacher to cond
   
 </li>
 </ul>
+
+</details>
+
+---
+
+<sub>Explore the [Sharanya Pal code portfolio](https://github.com/sharanyapal?tab=repositories).</sub>
